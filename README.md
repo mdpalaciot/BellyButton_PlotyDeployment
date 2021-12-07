@@ -1,1 +1,1 @@
-# greekgodsbootcamp
+The purpose of this repository focuses on building an interactive dashboard to visualize the bacterial species living in the navel of candidates of a research about meat protein synthesis from human bacteria. Specifically, users are able to identify the top 10 bacterial species in their belly buttons. That way, if improbable beef identifies a species as a candidate to manufacture synthetic beef, the candidates in the project will be able to identify whether that species is found in their navel.
